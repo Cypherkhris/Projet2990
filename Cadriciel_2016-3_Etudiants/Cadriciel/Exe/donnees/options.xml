@@ -1,0 +1,4 @@
+<configuration>
+    <Affichage DEBUG="1" TYPE_OBJET_COLLISION="0" VITESSE_RONDELLE="0" ETAT_ECLAIRAGE="1" ATTRACTION_PORTAILS="1"/>
+    <Options NB_BUTS="2" HAUT="W" BAS="S" GAUCHE="A" DROITE="D" TYPE_JOUEUR="1"/>
+</configuration>

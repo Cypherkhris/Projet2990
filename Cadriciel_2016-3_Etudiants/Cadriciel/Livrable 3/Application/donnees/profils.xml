@@ -1,0 +1,4 @@
+<listeProfils>
+    <profil nom="John" vitesse="1" passivite="1"/>
+    <profil nom="Steven" vitesse="1" passivite="1"/>
+</listeProfils>

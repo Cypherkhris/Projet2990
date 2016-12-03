@@ -1,0 +1,19 @@
+<root>
+    <poin X="69" Y="-47" Z="0" ANGLE_ROTATION="0">
+        <poin X="69" Y="0" Z="0" ANGLE_ROTATION="0">
+            <poin X="69" Y="47" Z="0" ANGLE_ROTATION="0">
+                <poin X="0" Y="47" Z="0" ANGLE_ROTATION="0">
+                    <poin X="-69" Y="47" Z="0" ANGLE_ROTATION="0">
+                        <poin X="-69" Y="0" Z="0" ANGLE_ROTATION="0">
+                            <poin X="-69" Y="-47" Z="0" ANGLE_ROTATION="0">
+                                <poin X="0" Y="-47" Z="0" ANGLE_ROTATION="0">
+                                    <poin X="0" Y="0" Z="0" ANGLE_ROTATION="0"/>
+                                </poin>
+                            </poin>
+                        </poin>
+                    </poin>
+                </poin>
+            </poin>
+        </poin>
+    </poin>
+</root>
